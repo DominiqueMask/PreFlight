@@ -1,6 +1,6 @@
 {
-  "name": "Grounded Private Pilot Ground School",
-  "short_name": "Grounded",
+  "name": "Preflight: Ground School Study Guide",
+  "short_name": "Preflight",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
