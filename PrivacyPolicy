@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy — PreFlight</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 0 20px;
+    line-height: 1.6;
+    color: #1a1a1a;
+  }
+  h1 { font-size: 1.8em; margin-bottom: 0.2em; }
+  h2 { font-size: 1.2em; margin-top: 1.5em; }
+  .updated { color: #666; font-size: 0.9em; margin-bottom: 2em; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy for PreFlight</h1>
+<p class="updated">Last updated: July 18, 2026</p>
+
+<p>PreFlight ("the app") is a study companion for student pilots preparing for their Private Pilot License (PPL). This Privacy Policy explains how the app handles information.</p>
+
+<h2>No Data Collection</h2>
+<p>PreFlight does not collect, store, transmit, or share any personal data. The app does not require account creation or sign-in, does not use analytics or tracking services, and does not connect to any external server to send or receive user information.</p>
+
+<h2>Local Storage Only</h2>
+<p>Any study progress, preferences, or content within the app is stored locally on your device only. This information is never transmitted off your device and is not accessible to the developer or any third party.</p>
+
+<h2>Third-Party Services</h2>
+<p>PreFlight does not integrate any third-party analytics, advertising, or data-collection services.</p>
+
+<h2>Children's Privacy</h2>
+<p>PreFlight does not knowingly collect any information from anyone, including children under the age of 13, as the app collects no data at all.</p>
+
+<h2>Changes to This Policy</h2>
+<p>If PreFlight's data practices change in the future, this policy will be updated accordingly, and the "Last updated" date above will reflect the most recent revision.</p>
+
+<h2>Contact</h2>
+<p>If you have questions about this Privacy Policy, please contact the developer through the app's Google Play Store listing.</p>
+
+</body>
+</html>
