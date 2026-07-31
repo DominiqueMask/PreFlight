@@ -1,6 +1,7 @@
-const CACHE = 'preflight-v1';
+const CACHE = 'preflight-v2';
 const ASSETS = [
-  './', './index.html', './manifest.webmanifest',
+  './', './index.html', './manifest.webmanifest', './app.js',
+  './vendor/react.production.min.js', './vendor/react-dom.production.min.js',
   './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'
 ];
 self.addEventListener('install', e => {
